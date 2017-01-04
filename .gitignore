@@ -1,4 +1,6 @@
 # Object files
+test
+calibrate
 *.o
 *.ko
 *.obj
